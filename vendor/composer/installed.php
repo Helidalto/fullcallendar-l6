@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'bf6cacf5088e5fb956476794ed5ac6db0315caef',
+    'reference' => 'f6c5a043074848136d84e5435ba382958ec60a8e',
     'name' => 'helidalto/laravel6-full-calendar',
   ),
   'versions' => 
@@ -22,12 +22,12 @@
     ),
     'doctrine/inflector' => 
     array (
-      'pretty_version' => '1.4.4',
-      'version' => '1.4.4.0',
+      'pretty_version' => '2.0.10',
+      'version' => '2.0.10.0',
       'aliases' => 
       array (
       ),
-      'reference' => '4bd5c1cdfcd00e9e2d8c484f79150f67e5d355d9',
+      'reference' => '5817d0659c5b50c9b950feb9af7b9668e2c436bc',
     ),
     'helidalto/laravel6-full-calendar' => 
     array (
@@ -36,43 +36,43 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'bf6cacf5088e5fb956476794ed5ac6db0315caef',
+      'reference' => 'f6c5a043074848136d84e5435ba382958ec60a8e',
     ),
     'illuminate/container' => 
     array (
-      'pretty_version' => 'v5.8.36',
-      'version' => '5.8.36.0',
+      'pretty_version' => 'v6.20.44',
+      'version' => '6.20.44.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'b42e5ef939144b77f78130918da0ce2d9ee16574',
+      'reference' => 'a3bf42e3cd9956774d5f8b0b7bbb612ed289e910',
     ),
     'illuminate/contracts' => 
     array (
-      'pretty_version' => 'v5.8.36',
-      'version' => '5.8.36.0',
+      'pretty_version' => 'v6.20.44',
+      'version' => '6.20.44.0',
       'aliases' => 
       array (
       ),
-      'reference' => '00fc6afee788fa07c311b0650ad276585f8aef96',
+      'reference' => '2aeb1ea8985f7a79abaf7186234c94b543a04165',
     ),
     'illuminate/database' => 
     array (
-      'pretty_version' => 'v5.8.36',
-      'version' => '5.8.36.0',
+      'pretty_version' => 'v6.20.44',
+      'version' => '6.20.44.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'ac9ae2d82b8a6137400f17b3eea258be3518daa9',
+      'reference' => '8eb6281d4109cebc993e0d541b671c4cdb5b3f2e',
     ),
     'illuminate/support' => 
     array (
-      'pretty_version' => 'v5.8.36',
-      'version' => '5.8.36.0',
+      'pretty_version' => 'v6.20.44',
+      'version' => '6.20.44.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'df4af6a32908f1d89d74348624b57e3233eea247',
+      'reference' => 'c625fd884620c41ea6c5d84ccdb6a39fe555282d',
     ),
     'laravel/helpers' => 
     array (

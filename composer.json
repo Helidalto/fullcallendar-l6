@@ -1,6 +1,6 @@
 {
     "name": "helidalto/laravel6-full-calendar",
-    "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
+    "description": "Laravel 6 helper for FullCalendar.io. Fork of maddhatter/laravel-fullcalendar.",
     "authors": [
         {
             "name": "Helidalto",
@@ -10,18 +10,16 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/database": "^5.0",
-        "illuminate/support": "^5.0",
+        "illuminate/database": "^6.0",
+        "illuminate/support": "^6.0",
         "laravel/helpers": "^1.1"
     },
     "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
+    "homepage": "https://github.com/Helidalto/fullcallendar-l6",
     "support": {
         "email": "helidalto@gmail.com",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
+        "issues": "https://github.com/Helidalto/fullcallendar-l6/issues",
+        "source": "https://github.com/Helidalto/fullcallendar-l6"
     },
     "autoload": {
         "psr-4": {
