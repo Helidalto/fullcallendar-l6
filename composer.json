@@ -1,5 +1,5 @@
 {
-    "name": "helidalto/laravel-full-calendar",
+    "name": "helidalto/laravel6-full-calendar",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": "^8.2",
-        "illuminate/database": "^10.0",
-        "illuminate/support": "^10.0",
+        "php": "^7.2",
+        "illuminate/database": "^5.0",
+        "illuminate/support": "^5.0",
         "laravel/helpers": "^1.1"
     },
     "license": "MIT",

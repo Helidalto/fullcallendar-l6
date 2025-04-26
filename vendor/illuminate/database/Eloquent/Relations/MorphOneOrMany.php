@@ -2,8 +2,8 @@
 
 namespace Illuminate\Database\Eloquent\Relations;
 
-use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Builder;
 
 abstract class MorphOneOrMany extends HasOneOrMany
 {
@@ -48,9 +48,9 @@ abstract class MorphOneOrMany extends HasOneOrMany
     public function addConstraints()
     {
         if (static::$constraints) {
-            $this->getRelationQuery()->where($this->morphType, $this->morphClass);
-
             parent::addConstraints();
+
+            $this->query->where($this->morphType, $this->morphClass);
         }
     }
 
@@ -64,7 +64,7 @@ abstract class MorphOneOrMany extends HasOneOrMany
     {
         parent::addEagerConstraints($models);
 
-        $this->getRelationQuery()->where($this->morphType, $this->morphClass);
+        $this->query->where($this->morphType, $this->morphClass);
     }
 
     /**
